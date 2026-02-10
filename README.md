@@ -1,7 +1,7 @@
 ## Joshua Issa
 
 PhD student @ UVic thinking about astrophysics 🔭<br/>
-Particularly the intersection of nuclear physics and fluid dynamics at the end of a star's life during oxygen-carbon shell mergers 💫<br/>
+Particularly the intersection of nuclear physics and fluid dynamics at the end of a star's life 💫<br/>
 Is that all I think about 🤔<br/><br/>
 If you want to check out my work, check out this reading list:
 
