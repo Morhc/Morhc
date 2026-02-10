@@ -15,8 +15,8 @@ If you want to check out my work, check out this reading list:
 
 I also have contributed to the following papers:
 
-> Fryer et al. January 2026 *Propagating Uncertainties from Nuclear Physics to Gamma-Rays in Core Collapse Supernovae*. Preprint. [Access linnk](https://doi.org/10.48550/arXiv.2601.04464)
+> Fryer et al. January 2026 *Propagating Uncertainties from Nuclear Physics to Gamma-Rays in Core Collapse Supernovae*. Preprint. [Access link](https://doi.org/10.48550/arXiv.2601.04464)
 
-> Fiori et al. January 2026 *Statistical Auroral Absorption Model Parameterized by AE Index*. Published in Journal of Geophysical Research: Space Physics. [Access Link](https://doi.org/10.1029/2025JA034648)
+> Fiori et al. January 2026 *Statistical Auroral Absorption Model Parameterized by AE Index*. Published in Journal of Geophysical Research: Space Physics. [Access link](https://doi.org/10.1029/2025JA034648)
 
-> Nassar et al. October 2023. *Intelligent Pointing Increases the Fraction of Cloud-Free CO2 and CH4 Observations from Space*. Frontiers in Remote Sensing. [Access Link](https://doi.org/10.3389/frsen.2023.1233803)
+> Nassar et al. October 2023. *Intelligent Pointing Increases the Fraction of Cloud-Free CO2 and CH4 Observations from Space*. Frontiers in Remote Sensing. [Access link](https://doi.org/10.3389/frsen.2023.1233803)
